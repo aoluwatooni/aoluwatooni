@@ -1,4 +1,4 @@
-# Oluwatooni Adebiyi
+# Oluwatooni
 
 ### Hello 👋, I'm Oluwatooni
 
