@@ -7,7 +7,7 @@
 My autobiography 😊
 
 - 🔢 I've always been a numbers person since I was little 👶
-- 📊 I love data 
+- 📊 I love data 😍💙
 - 🚗 I love automobiles and how they work
 - 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
 - 👯 I’m looking to collaborate on open source projects.
