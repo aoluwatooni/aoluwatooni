@@ -1,17 +1,15 @@
-# oluwatooniadebiyi
+### Hello there 👋, I'm Oluwatooni Adebiyi
 
-### Hello 👋, I'm Oluwatooni
-
-#### I am an IT business analyst, data scientist, data engineer and software developer
-
-My autobiography 😊
+#### Data scientist, IT Business Analyst, Data Engineer, and Software Developer
 
 - 🔢 I've always been a numbers person since I was little 👶
-- 📊 I love data 😍💙
+- 📊 I love data 💙
+- 🤼 I love volounteering
+- 👯 I love contributing to open source projects.
 - 🚗 I love automobiles and how they work
-- 🌱 I’m currently learning to celebrate my wins and be more active in the tech community
-- 👯 I’m looking to collaborate on open source projects.
-- 💬 Ask me about Data Sceience, and Data Engineering.
+- 💬 Ask me about Data Science, Data Engineering, Business Analysis
+
+
 - 📫 Let's connect:
   [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/oluwatooni-adebiyi/)](https://www.linkedin.com/in/oluwatooni-adebiyi/)
   [![Twitter Badge](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white&link=https://twitter.com/mr_toonie)](https://twitter.com/mr_toonie)
