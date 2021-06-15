@@ -1,12 +1,13 @@
 ### Hello there 👋, I'm Oluwatooni Adebiyi
 
-#### Data scientist, IT Business Analyst, Data Engineer, and Software Developer
+#### Data scientist, Data Engineer, and Software Developer
 
 - 🔢 I've always been a numbers person since I was little 👶
 - 📊 I love data 💙
 - 🤼 I love volounteering
-- 👯 I love contributing to open source projects.
 - 🚗 I love automobiles and how they work
+- 👯 I'm open to contributing to open source projects.
+
 - 💬 Ask me about Data Science, Data Engineering, Business Analysis
 
 
