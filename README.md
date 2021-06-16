@@ -3,11 +3,11 @@
 #### IT Business Analyst, Data scientist, Data Engineer, and Software Developer
 
 - 🔢 I've always been a numbers person since I was little 👶
-- 📊 I love data 💙
-- 🚗 I love automobiles and how they work
+- 📊 I love getting insighs data 💙
+- 🚗 I love automobiles and how they work.
 - 👯 I'm open to contributing to open source projects.
 
-- 💬 Ask me about Data Science, Data Engineering.
+- 💬 Ask me about Business Intelligence, Data Science,Data Engineering.
 
 
 - 📫 Let's connect:
