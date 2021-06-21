@@ -18,5 +18,3 @@
   
  
  [![Oluwatooni's GitHub stats](https://github-readme-stats.vercel.app/api?username=aoluwatooni)](https://github.com/aoluwatooni/github-readme-stats)
-
-![Oluwatooni's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=aoluwatooni&theme=algolia&show_icons=true)
