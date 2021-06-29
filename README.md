@@ -1,6 +1,6 @@
 ### Hello there 👋, I'm Oluwatooni Adebiyi
 
-#### IT Business Analyst, Data scientist, Data Engineer, and Software Developer
+#### Business Intelligence Analyst, Data scientist, and Data Engineer.
 
 - 🔢 I've always been a numbers person since I was little 👶
 - 📊 I love finding insights from data 💙
