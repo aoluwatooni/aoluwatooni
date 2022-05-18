@@ -3,10 +3,9 @@
 #### Data Analyst and Data Scientist
 
 - 📊 I love finding insights from data 💙
-- 🚗 I love automobiles and how they work.
 - 👯 I'm open to contributing to open source projects.
 
-- 💬 Ask me about Business Intelligence, Data Science, Data Engineering.
+- 💬 Ask me about Business Intelligence and Data Science.
 
 
 - 📫 Let's connect:
