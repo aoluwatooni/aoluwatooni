@@ -1,6 +1,6 @@
 ### Hi there! I'm Oluwatooni Adebiyi
 
-#### Data Analyst, Data Scientist, Data Engineer, and Software Developer.
+#### Data Analyst and Data Scientist
 
 - 📊 I love finding insights from data 💙
 - 🚗 I love automobiles and how they work.
