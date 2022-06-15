@@ -2,7 +2,7 @@
 
 #### Data Analyst and Data Scientist
 
-- 📊 I love finding insights from data 💙
+- 📊 I love finding insights in data 💙
 - 👯 I'm open to contributing to open source projects.
 
 - 💬 Ask me about Business Intelligence and Data Science.
