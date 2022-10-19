@@ -1,6 +1,6 @@
 ### Hi there! I'm Oluwatooni Adebiyi
 
-#### Data Analyst and Data Scientist
+#### Data Analyst
 
 - 📊 I love finding insights in data 💙
 - 👯 I'm open to contributing to open source projects.
